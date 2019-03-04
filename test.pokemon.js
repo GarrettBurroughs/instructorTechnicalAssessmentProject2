@@ -1,4 +1,3 @@
-const randTestsIterations = 100;
 describe("Pokemon class",function(){ 
     // #1 The `Pokemon` class should be defined.
     it("should be defined",function(){
